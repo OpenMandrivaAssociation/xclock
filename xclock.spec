@@ -23,7 +23,6 @@ continuously updated at a frequency which may be specified by the user.
 %setup -q -n %{name}-%{version}
 
 %build
-autoreconf -ifs
 %configure	--x-includes=%{_includedir}\
 		--x-libraries=%{_libdir}
 
