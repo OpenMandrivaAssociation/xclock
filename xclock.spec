@@ -15,7 +15,7 @@ BuildRequires: x11-util-macros >= 1.0.1
 BuildRequires: pkgconfig(xrender) >= 0.9.0
 BuildRequires: pkgconfig(xft) >= 2.1.8.2
 BuildRequires: pkgconfig(xkbfile) >= 1.0.1
-BuildRequires: gettext-devel
+
 
 %description
 The xclock program displays the time in analog or digital form. The time is
