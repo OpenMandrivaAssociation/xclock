@@ -1,3 +1,5 @@
+%define _disable_lto 1
+
 Name: xclock
 Version: 1.0.7
 Release: 3
