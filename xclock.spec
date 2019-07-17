@@ -1,7 +1,7 @@
 %define _disable_lto 1
 
 Name: xclock
-Version: 1.0.8
+Version: 1.0.9
 Release: 1
 Summary: analog / digital clock for X
 Group: Development/X11
